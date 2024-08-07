@@ -1,0 +1,10 @@
+{
+    "collection": "@nestjs/schematics",
+    "monorepo": true,
+    "projects": {
+      "api": {
+        "sourceRoot": "src/apps/x-api"
+      }
+    }
+  }
+  
